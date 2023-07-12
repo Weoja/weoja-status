@@ -5,6 +5,22 @@ repo: weoja-status # The name of this repository
 sites:
   - name: Weoja Search
     url: https://weoja.com
+  - name: Weoja API VN
+    url: https://api.weoja.com
+  - name: Weoja API VN 2
+    url: https://api-vn2.weoja.com
+  - name: Weoja API DE
+    url: https://api-de.weoja.com
+  - name: Weoja API IN
+    url: https://api-in.weoja.com
+  - name: Weoja API SG
+    url: https://api-sg.weoja.com
+  - name: Weoja API US
+    url: https://api-us.weoja.com
+  - name: Weoja Map
+    url: https://map.weoja.com
+  - name: Weoja API VN
+    url: https://api.weoja.com
   - name: Weoja Accounts
     url: https://accounts.weoja.dev
     expectedStatusCodes:
