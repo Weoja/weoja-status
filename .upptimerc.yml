@@ -28,7 +28,7 @@ sites:
   - name: Weoja Services
     url: https://ip-details.weoja.dev/
     expectedStatusCodes:
-      - 404
+      - 400
   - name: Weoja Job
     url: https://job.weoja.dev
 
