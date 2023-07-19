@@ -19,8 +19,6 @@ sites:
     url: https://api-us.weoja.com
   - name: Weoja Map
     url: https://map.weoja.com
-  - name: Weoja API VN
-    url: https://api.weoja.com
   - name: Weoja Accounts
     url: https://accounts.weoja.dev
     expectedStatusCodes:
