@@ -37,9 +37,9 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://assets.weoja.com/logo.svg
   faviconSvg: https://assets.weoja.com/logo.svg
-  name: Weoja Status
-  introTitle: "**Weoja Status**"
-  introMessage: Status of Weoja Services
+  name: Weo | Status
+  introTitle: "**Weo | Status**"
+  introMessage: Status of Weo Services
   # navbar:
   #   - title: Status
   #     href: /
