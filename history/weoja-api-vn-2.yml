@@ -1,7 +1,7 @@
 url: https://api-vn2.weoja.com
-status: down
-code: 502
-responseTime: 16022
-lastUpdated: 2023-08-05T08:25:37.257Z
+status: up
+code: 200
+responseTime: 747
+lastUpdated: 2023-08-05T09:39:49.554Z
 startTime: Wed Jul 12 2023 06:03:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
