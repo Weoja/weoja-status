@@ -21,8 +21,6 @@ sites:
     url: https://map.weoja.com
   - name: Weoja Accounts
     url: https://accounts.weoja.dev
-    expectedStatusCodes:
-      - 404
   - name: Weoja Services
     url: https://ip-details.weoja.dev/
     expectedStatusCodes:
