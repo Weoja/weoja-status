@@ -7,8 +7,6 @@ sites:
     url: https://weoja.com
   - name: Weoja API VN
     url: https://api.weoja.com
-  - name: Weoja API VN 2
-    url: https://api-vn2.weoja.com
   - name: Weoja API DE
     url: https://api-de.weoja.com
   - name: Weoja API IN
@@ -27,7 +25,8 @@ sites:
       - 400
   - name: Weoja Job
     url: https://job.weoja.dev
-
+  - name: Weoja Bot
+    url: https://bot.weoja.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
