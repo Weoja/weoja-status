@@ -1,7 +1,7 @@
-url: https://api.weoja.com
+url: https://api.weoja.com/v1/health
 status: up
 code: 200
-responseTime: 723
-lastUpdated: 2023-09-11T23:09:53.457Z
+responseTime: 666
+lastUpdated: 2023-09-12T12:04:55.408Z
 startTime: 2023-07-12T06:03:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
