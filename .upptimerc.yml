@@ -6,15 +6,29 @@ sites:
   - name: Weoja Search
     url: https://weoja.com
   - name: Weoja API VN
-    url: https://api.weoja.com
+    url: https://api.weoja.com/v1/health
   - name: Weoja API DE
-    url: https://api-de.weoja.com
+    url: https://api-de.weoja.com/v1/health
   - name: Weoja API IN
-    url: https://api-in.weoja.com
+    url: https://api-in.weoja.com/v1/health
   - name: Weoja API SG
-    url: https://api-sg.weoja.com
+    url: https://api-sg.weoja.com/v1/health
   - name: Weoja API US
-    url: https://api-us.weoja.com
+    url: https://api-us.weoja.com/v1/health
+  - name: Weoja API JP
+    url: https://api-jp.weoja.com/v1/health
+  - name: Weoja API CN
+    url: https://api-cn.weoja.com/v1/health
+  - name: Weoja API UK
+    url: https://api-uk.weoja.com/v1/health
+  - name: Weoja API FR
+    url: https://api-fr.weoja.com/v1/health
+  - name: Weoja API NL
+    url: https://api-nl.weoja.com/v1/health
+  - name: Weoja API CA
+    url: https://api-ca.weoja.com/v1/health
+  - name: Weoja API KR
+    url: https://api-kr.weoja.com/v1/health
   - name: Weoja Map
     url: https://map.weoja.com
   - name: Weoja Accounts
