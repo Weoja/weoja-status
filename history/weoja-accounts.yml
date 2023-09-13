@@ -1,7 +1,7 @@
 url: https://accounts.weoja.dev
-status: up
-code: 200
-responseTime: 682
-lastUpdated: 2023-09-12T23:10:16.642Z
+status: down
+code: 502
+responseTime: 830
+lastUpdated: 2023-09-13T03:09:30.129Z
 startTime: 2023-07-12T05:15:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
