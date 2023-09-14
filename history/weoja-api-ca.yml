@@ -1,7 +1,7 @@
 url: https://api-ca.weoja.com/v1/health
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2023-09-13T23:10:14.840Z
+status: down
+code: 404
+responseTime: 180
+lastUpdated: 2023-09-14T06:33:43.342Z
 startTime: 2023-09-12T12:05:16.208Z
 generator: Upptime <https://github.com/upptime/upptime>
