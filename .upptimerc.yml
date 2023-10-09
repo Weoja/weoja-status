@@ -10,7 +10,7 @@ sites:
   - name: Weoja Map
     url: https://map.weoja.com
   - name: Weoja Accounts
-    url: https://accounts.weoja.dev
+    url: https://accounts.weoja.com
   - name: Weoja Services
     url: https://ip-details.weoja.dev/
     expectedStatusCodes:
