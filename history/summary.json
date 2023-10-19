@@ -44,19 +44,19 @@
     "url": "https://map.weoja.com",
     "icon": "https://icons.duckduckgo.com/ip3/map.weoja.com.ico",
     "slug": "weoja-map",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1002,
-    "timeDay": 862,
-    "timeWeek": 948,
-    "timeMonth": 992,
-    "timeYear": 1002,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 1000,
+    "timeDay": 849,
+    "timeWeek": 934,
+    "timeMonth": 987,
+    "timeYear": 1000,
     "dailyMinutesDown": {
-      "2023-10-19": 15
+      "2023-10-19": 40
     }
   },
   {
