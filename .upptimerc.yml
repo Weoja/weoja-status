@@ -24,8 +24,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.weoja.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://assets.weoja.com/logo.svg
-  faviconSvg: https://assets.weoja.com/logo.svg
+  logoUrl: https://cdn.weoja.com/assets//brand/logo-y.svg
+  faviconSvg: https://cdn.weoja.com/assets//brand/logo-y.svg
   name: Weo | Status
   introTitle: "**Weo | Status**"
   introMessage: Status of Weo Services
