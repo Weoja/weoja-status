@@ -7,8 +7,6 @@ sites:
     url: https://weoja.com
   - name: Weoja APIs
     url: https://api.weoja.com/v1/health
-  - name: Weoja Map
-    url: https://map.weoja.com
   - name: Weoja Accounts
     url: https://accounts.weoja.com
   - name: Weoja Services
